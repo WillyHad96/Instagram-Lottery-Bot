@@ -32,7 +32,8 @@ git clone https://github.com/WillyHad96/Instagram-Lottery-Bot/tree/main.git
 cd Instagram-Lottery-Bot
 ```
 
-2. Installed the required packages:
+2. Install the required packages:
+
 ```
 pip install -r requirements.txt
 ```
