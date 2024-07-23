@@ -1,4 +1,4 @@
-# Instagram Automation Script
+# Instagram Lottery Bot
 
 This repository contains a Python script that automates the process of logging into Instagram and posting comments on a specific post. The script uses Selenium to interact with the Instagram web interface and the idea is to automate the process of applying to the popular lottery posts and have more chances of winning.
 
