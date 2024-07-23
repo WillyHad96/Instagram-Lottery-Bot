@@ -1,6 +1,11 @@
 # Instagram Automation Script
 
-This repository contains a Python script that automates the process of logging into Instagram and posting comments on a specific post. The script uses Selenium to interact with the Instagram web interface.
+This repository contains a Python script that automates the process of logging into Instagram and posting comments on a specific post. The script uses Selenium to interact with the Instagram web interface and the idea is to automate the process of applying to the popular lottery posts and have more chances of winning.
+
+
+## Video
+
+<img src="https://github.com/WillyHad96/Instagram-Lottery-Bot/blob/main/InstagramLotteryBotVideoGIF.gif" alt="Screenrecording" width="500" height="500">
 
 
 
@@ -23,8 +28,8 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/instagram-automation.git
-cd instagram-automation
+git clone https://github.com/WillyHad96/Instagram-Lottery-Bot/tree/main.git
+cd Instagram-Lottery-Bot
 ```
 
 2. Installed the required packages:
@@ -42,9 +47,9 @@ pip install -r requirements.txt
 
 1. Update the constants in the script:
 
-home_page_url: The URL of the Instagram post where you want to post comments.
-username: Your Instagram username.
-password: Your Instagram password.
+- home_page_url: The URL of the Instagram post where you want to post comments.
+- username: Your Instagram username.
+- password: Your Instagram password.
 
 2. Run the Script:
 ```
