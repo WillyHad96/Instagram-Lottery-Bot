@@ -5,7 +5,7 @@ This repository contains a Python script that automates the process of logging i
 
 ## Screen Recording
 
-<img src="https://github.com/WillyHad96/Instagram-Lottery-Bot/blob/main/InstagramVideoGIF.gif" alt="Screenrecording" width="500" height="500">  
+<img src="https://github.com/WillyHad96/Instagram-Lottery-Bot/blob/main/InstagramVideoGIF.gif" alt="Screenrecording" width="600" height="400">  
 
 
 
