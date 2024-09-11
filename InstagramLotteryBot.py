@@ -49,8 +49,8 @@ def log_in():
 
     username.clear()
     password.clear()
-    username.send_keys("guillermoteniasmoron@hotmail.com")
-    password.send_keys("84264325gtm")
+    username.send_keys("youremail@gmail.com")
+    password.send_keys("123456")
     time.sleep(1)
     sign_in_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//*[@id='loginForm']/div/div[3]/button"))).click()
     time.sleep(8)
